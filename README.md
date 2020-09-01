@@ -1,5 +1,5 @@
 # GoPentestTools
-Useful golang tools in pentest work especially when internal pentest working
+Useful ssh connect tool in pentest work especially when internal pentest working,It can use input ssh connect info and command in one row command ,then execute the command at target system
 
  
 
